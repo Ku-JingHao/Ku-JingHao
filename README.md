@@ -1,15 +1,19 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   🌾  KU JING HAO  ·  Farming...  🌾    ║
-╚══════════════════════════════════════════╝
-```
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ku+Jing+Hao+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
-### `> Building intelligence, one model at a time.`
+<p>
+  <em><b>Building intelligence, one model at a time.</b></em>
+</p>
 
-[![Location](https://img.shields.io/badge/📍_Kuala_Lumpur-Malaysia-red?style=flat-square)](https://github.com/Ku-JingHao)
-![Profile Views](https://komarev.com/ghpvc/?username=Ku-JingHao&style=flat-square&color=blueviolet)
+<p>
+  <a href="https://github.com/Ku-JingHao">
+    <img src="https://img.shields.io/badge/📍_Kuala_Lumpur-Malaysia-red?style=flat-square" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ku-JingHao&style=flat-square&color=blueviolet" />
+</p>
 
 </div>
 
@@ -17,13 +21,13 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ku-JingHao&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 🧠 What I Build
+### 🧠 What I Focus On
+
+- **AI Agents & LLMs**
+- **MLOps**
+- **Inference Infrastructure**
 
 ```yaml
-focus:
-  - AI Agents & LLM 
-  - ML / Deep Learning Models
-
 currently: "Farming XP... 🌾"
 ```
 
@@ -45,6 +49,8 @@ currently: "Farming XP... 🌾"
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ku-JingHao)
 
 </div>
+
+---
 
 <div align="center">
 
