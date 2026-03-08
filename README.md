@@ -25,10 +25,6 @@
 - **AI Agents & LLMs**
 - **Inference Infrastructure**
 
-```yaml
-currently: "Farming XP... 🌾"
-```
-
 ### ⚔️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
